@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>nav</title>
+<title>목록</title>
 <style>
 nav {
 	width: 100%;
 	height: 40px;
-background: #6B8E23;
+	background: #6B8E23;
 	line-height: 40px;
 }
 
@@ -21,10 +21,10 @@ nav a {
 </head>
 <body>
 	<nav>
-		<a href="insert.jsp">예약</a>
-		<a href="resvlist.jsp">예약조회</a>
-		<a href="count.jsp">사용일수조회</a>
-		<a href="index.jsp">홈으로</a>
+		<a href="insert.jsp">관측 예약</a>
+		<a href="resvlist.jsp">예약 조회</a>
+		<a href="count.jsp">이용일수 집계</a>
+		<a href="index.jsp">홈</a>
 	</nav>
 </body>
 </html>

@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>index</title>
+<title>홈</title>
 <style>
 *{
 padding: 0;
@@ -28,9 +28,10 @@ padding: 10px;
 <jsp:include page="header.jsp"></jsp:include>
 <jsp:include page="nav.jsp"></jsp:include>
 <section>
-<h2>배드민턴</h2>
+<h2>우주관광</h2>
 <p>
-배드민턴을 만들었습니다. 배드민턴~~ 배드민턴을 만들었습니다. 배드민턴~~ 배드민턴을 만들었습니다. 배드민턴~~ 배드민턴을 만들었습니다. 배드민턴~~
+우주관광 예약 시스템입니다.  
+천문대 관측 세션을 예약하고, 별빛 가이드를 만나보세요.
 </p>
 </section>
 <jsp:include page="footer.jsp"></jsp:include>

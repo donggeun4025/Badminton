@@ -9,7 +9,7 @@
 	footer{
 		width: 100%;
 		height: 60px;
-background:	#2E8B57;
+		background:	#2E8B57;
 		text-align: center;
 		line-height: 60px;
 	}
@@ -17,7 +17,7 @@ background:	#2E8B57;
 </head>
 <body>
 <footer>
-		<h3>HRDKOREA Copyrightⓒ2020 All rights reserved. Human Resources Development Service of Korea</h3>
-	</footer>
+	<h3>© 2025 CosmoTrip – Stargazing & Space Tourism</h3>
+</footer>
 </body>
 </html>
