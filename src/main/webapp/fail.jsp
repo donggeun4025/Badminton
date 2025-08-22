@@ -26,21 +26,20 @@ form {
 	display: flex;
 	justify-content: center;
 }
+section div{
+		display: flex;
+		justify-content: center;
+	}
 </style>
 </head>
 <body>
 	<jsp:include page="header.jsp"></jsp:include>
 	<jsp:include page="nav.jsp"></jsp:include>
 	<section>
-		<h2>코트예약</h2>
-		<form action="action.jsp" name="frm">
-			<table border="1">
-				<tr>
-					<td colspan="3" style="text-align: center;"><input
-						type="button" value="다시쓰기" onclick="insert_no()"></td>
-				</tr>
-			</table>
-		</form>
+		<h2> 코트예약 정보가 존재하지 않습니다.</h2>
+		<div>
+		<input type="button" value="돌아가기" style="margin: 10px" onclick="window.location.href='resvlist.jsp'">
+		</div>
 	</section>
 	<jsp:include page="footer.jsp"></jsp:include>
 	<script type="text/javascript" src="script.js"></script>

@@ -16,6 +16,7 @@ try{
 	String sql = "insert into TBL_RESV_202301 values(?,?,?,?)";
 	
 	psmt = con.prepareStatement(sql);
+	
 	psmt.setString(1, resv_no);
 	psmt.setString(2, resv_date);
 	psmt.setString(3, court_no);

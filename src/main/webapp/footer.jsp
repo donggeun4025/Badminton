@@ -17,7 +17,7 @@
 </head>
 <body>
 <footer>
-	<h3>© 2025 CosmoTrip – Stargazing & Space Tourism</h3>
+<h3>© 2025 CosmoTrip – Stargazing & Space Tourism</h3>
 </footer>
 </body>
 </html>

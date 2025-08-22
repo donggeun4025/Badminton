@@ -49,8 +49,8 @@ form{
 			</tr>
 			<tr>
 				<td>관측소 번호</td>
-				<td><input type="text" name="observatory_no"></td>
-				<td>예)O001~O009</td>
+				<td><input type="text" name="court_no"></td>
+				<td>예)C001~C009</td>
 			</tr>
 			<tr>
 				<td colspan="3" style="text-align: center;">
