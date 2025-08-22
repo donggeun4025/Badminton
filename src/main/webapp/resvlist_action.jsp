@@ -21,12 +21,10 @@
 		rs=psmt.executeQuery();
 		
 		if(rs.next()){
-			System.out.println("성공!");
 			%>
 			<jsp:forward page="success.jsp"></jsp:forward>
 			<%
 		}else{
-			System.out.println("실패!");
 			%>
 			<jsp:forward page="fail.jsp"></jsp:forward>
 			<%

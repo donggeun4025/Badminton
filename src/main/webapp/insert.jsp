@@ -38,17 +38,17 @@ form{
 				<td>예)20250001</td>
 			</tr>
 			<tr>
-				<td>고객번호</td>
+				<td>고객번호dd</td>
 				<td><input type="text" name="cust_no"></td>
 				<td>예)1001</td>
 			</tr>
 			<tr>
-				<td>예약일자</td>
+				<td>예약일자ss</td>
 				<td><input type="text" name="resv_date"></td>
 				<td>예)20250821</td>
 			</tr>
 			<tr>
-				<td>관측소 번호</td>
+				<td>관측소 번호gg</td>
 				<td><input type="text" name="court_no"></td>
 				<td>예)C001~C009</td>
 			</tr>
